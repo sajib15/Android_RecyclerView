@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ReCview</string>
+    <string-array name="Leader_name">
+        <item>Mohandas Gandhi</item>
+        <item>Alexander the Great</item>
+        <item>Mao Zedong</item>
+        <item>Winston Churchill</item>
+        <item>Genghis Khan</item>
+        <item>Nelson Mandela</item>
+        <item>Abraham Lincoln</item>
+        <item> Adolf Hitler</item>
+        <item>Che Guevara</item>
+        <item>Ronald Reagan</item>
+        <item>Cleopatra</item>
+        <item>Franklin Roosevelt</item>
+        <item>Dalai Lama</item>
+        <item>Queen Victoria</item>
+        <item>Benito Mussolini</item>
+        <item>Akbar the Great</item>
+        <item>Lenin</item>
+        <item>Margaret Thatcher</item>
+        <item>Simón Bolívar</item>
+        <item>Qin Shi Huang</item>
+        <item>Kim II-Sung</item>
+
+    </string-array>
+</resources>
